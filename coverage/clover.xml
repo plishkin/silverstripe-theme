@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1683624845538" clover="3.2.0">
+  <project timestamp="1683624845538" name="All files">
+    <metrics statements="21" coveredstatements="7" conditionals="2" coveredconditionals="0" methods="7" coveredmethods="1" elements="30" coveredelements="8" complexity="0" loc="21" ncloc="21" packages="3" files="5" classes="5"/>
+    <package name="app">
+      <metrics statements="10" coveredstatements="4" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <file name="App.tsx" path="/home/slava/www/2Plishkin/silverstripe/htdocs/themes/app/App.tsx">
+        <metrics statements="10" coveredstatements="4" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.components.api">
+      <metrics statements="11" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="Api.tsx" path="/home/slava/www/2Plishkin/silverstripe/htdocs/themes/app/components/api/Api.tsx">
+        <metrics statements="11" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.components.models">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="IWsMessage.tsx" path="/home/slava/www/2Plishkin/silverstripe/htdocs/themes/app/components/models/IWsMessage.tsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="IWsResponse.tsx" path="/home/slava/www/2Plishkin/silverstripe/htdocs/themes/app/components/models/IWsResponse.tsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="IWsTimerResponse.tsx" path="/home/slava/www/2Plishkin/silverstripe/htdocs/themes/app/components/models/IWsTimerResponse.tsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
